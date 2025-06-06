@@ -36,7 +36,7 @@ medical_history = st.sidebar.selectbox(
 family_history = st.sidebar.selectbox(
     "Family Medical History", 
     options=["None", "High blood pressure", "Heart disease", "Diabetes"],
-    index=1
+    index=1 
 )
 exercise_frequency = st.sidebar.selectbox(
     "Exercise Frequency", 

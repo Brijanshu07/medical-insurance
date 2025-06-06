@@ -1,5 +1,2 @@
-//add insurance_dataset.csv to gitignore file
-git add .
-git commit -m "add insurance_dataset.csv to gitignore"
 
 insurance_dataset.csv
